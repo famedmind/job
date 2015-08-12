@@ -1,5 +1,5 @@
 <?
 
-echo "good works";
+echo "good works my friend";
 
 ?>
